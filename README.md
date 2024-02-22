@@ -1,6 +1,6 @@
 # CanTekWebScraping
 
-## Installation
+## Mandatory library
 
 pip install selenium pandas google
 
