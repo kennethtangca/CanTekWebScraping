@@ -8,7 +8,7 @@ pip install selenium pandas google
 
 Modify main.py valiable NO_OF_SEARCH to adjust the Total No. of result.
 
-## Running Program
+## Run the Program
 Complie and run with main.py
 
 ## Using on WebScraper
