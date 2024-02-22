@@ -5,9 +5,9 @@
 pip install selenium pandas google
 
 
-** The Following must using selenium with FireFox web driver. **
-** Be sure that Firefox has been installed on the local machine. **
-** The Script may only running on LOCAL MACHINE ONLY **
+** The Following must using selenium with FireFox web driver. \n
+Be sure that Firefox has been installed on the local machine. \n
+The Script may only running on LOCAL MACHINE ONLY 
 
 ## Setup search results
 
@@ -15,7 +15,7 @@ Modify main.py valiable NO_OF_SEARCH to adjust the Total No. of result.
 
 ## Using on WebScraper
 
-** webScraping([query string where user input], [Total No. of result])**
+** webScraping([query string where user input], [Total No. of result]) **
 
 It will return a dataframe for further usage
 
