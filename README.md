@@ -18,10 +18,10 @@ Modify main.py valiable NO_OF_SEARCH to adjust the Total No. of result.
 ### Import library
 from WebScraper import WebScraper
 
-### initizate 
+### Initizate 
 webScraping = WebScraper()
 
-### function calling
+### Function Calling
 webScraping([query string where user input], [Total No. of result])
 
 It will return a dataframe for further usage
