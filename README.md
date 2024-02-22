@@ -11,7 +11,7 @@ pip install selenium pandas google
 
 ## Setup search results
 
-Modify main.py valiable NO_OF_SEARCH to adjust the total records result.
+Modify main.py valiable NO_OF_SEARCH to adjust the Total No. of result.
 
 ## Using on WebScraper
 
