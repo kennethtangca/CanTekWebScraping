@@ -15,8 +15,7 @@ Modify main.py valiable NO_OF_SEARCH to adjust the total records result.
 
 ## Using on WebScraper
 
-webScraping(queryString, NO_OF_SEARCH)
+webScraping([query string where user input], [Total No. of result])
 
-queryString is the query string 
-NO_OF_SEARCH is total result for returning
+It will return a dataframe for further usage
 
