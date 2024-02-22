@@ -21,7 +21,7 @@ from WebScraper import WebScraper
 ### Initizate 
 webScraping = WebScraper()
 
-### Function Calling
+### Usage
 webScraping([query string where user input], [Total No. of result])
 
 It will return a dataframe for further usage
